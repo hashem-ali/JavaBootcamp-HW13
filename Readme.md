@@ -3,7 +3,7 @@
 
 Task Class : ID , title , description , status
 
-- Create a new taks (title , description , status , deadline)
+- Create a new taks (title , description , status)
 - Display all tasks .
 - Update a task
 - Delete a task
